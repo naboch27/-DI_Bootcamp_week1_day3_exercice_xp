@@ -1,0 +1,84 @@
+.img-1 {
+
+    background-image: url("photo/photo_mo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.container-next {
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+    font-size: 30px;
+    margin-top: 20px;
+    justify-content: space-between;
+    margin: 30px;
+
+}
+
+.container-for-st {
+    margin: 20px;
+    background-color: rgb(95, 94, 94);
+    color: white;
+}
+
+.container-next-1 {
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: 20px;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.text-name {
+    margin-top: 50px;
+    border: 1px solidred;
+}
+
+.txt-bold {
+    font-weight: bold;
+}
+
+.txt-job {
+    font-size: 15px;
+}
+
+.container-next-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-1 {
+    margin: 30px;
+    color: rgb(247, 247, 252);
+    text-decoration: underline;
+}
+
+.txt-st {
+    margin: 40px;
+
+}
+
+.container-next-1 .text-name {
+    border-right: double;
+    border-top: double;
+    border-bottom: double;
+    border-left: double;
+}
+
+.txt-soulig {
+    text-decoration: underline;
+    margin: 15px;
+}
+
+.txt-soulig-1 {
+    text-decoration: underline;
+    margin: 30px;
+}
